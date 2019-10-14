@@ -193,7 +193,9 @@ textarea:focus {
     color: currentColor; }
 
 .main-footer {
-  background: #213140; }
+  background: #7DB7EA; }
+  .center {
+    text-align: center; }
 
 .center {
   text-align: center; }
@@ -789,6 +791,8 @@ textarea:focus {
 .contacts {
   position: relative;
   overflow: hidden; }
+  .center {
+    text-align: center; }
   .contacts .map {
     height: 450px;
     z-index: 1; }

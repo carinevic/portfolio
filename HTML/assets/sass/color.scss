@@ -3,7 +3,7 @@ $colors: (
 );
 
 .intro-slideshow:before {
-	background: darken(map-get($colors, main), 15%);
+	background: darken(map-get($colors, main), 10%);
 }
 
 .styled-section,
